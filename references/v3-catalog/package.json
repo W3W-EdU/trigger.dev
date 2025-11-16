@@ -30,7 +30,7 @@
     "@traceloop/instrumentation-openai": "^0.10.0",
     "@trigger.dev/sdk": "workspace:*",
     "@typeschema/typebox": "^0.14.0",
-    "ai": "^3.3.24",
+    "ai": "^5.0.52",
     "arktype": "2.0.0-rc.17",
     "dotenv": "^16.4.5",
     "email-reply-parser": "^1.8.0",
