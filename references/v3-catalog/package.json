@@ -51,7 +51,7 @@
     "superstruct": "^2.0.2",
     "typeorm": "^0.3.20",
     "valibot": "^0.42.1",
-    "wrangler": "3.70.0",
+    "wrangler": "4.24.4",
     "yt-dlp-wrap": "^2.3.12",
     "yup": "^1.4.0",
     "zod": "3.23.8"
